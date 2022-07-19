@@ -51,6 +51,12 @@ This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+The following files are under different licence and copyright:
+
+| Licence | Filepaths |
+|-|-|
+| Copyright © 2021 Process and Data Science Group (PADS) of the RWTH Aachen University. | src/main/resources/ocel.xsd and src/test/resources/running-example.xmlocel |
+
 ## Research
 
 If you are going to use this project as part of a research paper, we would ask you to reference this project by citing
