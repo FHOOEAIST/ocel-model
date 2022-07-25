@@ -69,7 +69,7 @@
         </snapshotRepository>
         <site>
             <id>javadoc</id>
-            <url>scm:git:ssh://git@github.com/FHOOEAIST/xes-model.git</url>
+            <url>scm:git:ssh://git@github.com/FHOOEAIST/ocel-model.git</url>
         </site>
     </distributionManagement>
 
